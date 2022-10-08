@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40yuechen-blue)](https://www.zhihu.com/people/zhao-yue-chen-74)
+- :man_student: Master's student at ZJU
+- :man_mechanic: Working on finite elements and multiphysics simulation
+- :monocle_face: Been having fun with both real-time and offline rendering techniques
+- :mage: I play games a lot
+- :surfing_man: Would love a job concerning the using and making of game engines
