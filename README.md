@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40yuechen-blue)](https://www.zhihu.com/people/zhao-yue-chen-74)
 - :monocle_face: A newbie game engine programmer, dedicated and passionate about my career!
 - :mage: I try to play games in my spare time although not really much time is left.
-- :shit: VFXGraph VFXGraph VFXGraph VFXGraph VFXGraph VFXGraph VFXGraph
